@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2c67226.chunk.css",
-    "main.js": "/static/js/main.3108281a.chunk.js",
-    "main.js.map": "/static/js/main.3108281a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.a0f1c262.chunk.js": "/static/js/2.a0f1c262.chunk.js",
-    "static/js/2.a0f1c262.chunk.js.map": "/static/js/2.a0f1c262.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.582977193fd647060cac9edc304e5d10.js": "/precache-manifest.582977193fd647060cac9edc304e5d10.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a2c67226.chunk.css.map": "/static/css/main.a2c67226.chunk.css.map",
-    "static/media/Banner.scss": "/static/media/banner_1.3ae75bc7.png"
+    "main.css": "/baraton-build/static/css/main.6af95ff8.chunk.css",
+    "main.js": "/baraton-build/static/js/main.4f57292b.chunk.js",
+    "main.js.map": "/baraton-build/static/js/main.4f57292b.chunk.js.map",
+    "runtime~main.js": "/baraton-build/static/js/runtime~main.9e515f51.js",
+    "runtime~main.js.map": "/baraton-build/static/js/runtime~main.9e515f51.js.map",
+    "static/js/2.a0f1c262.chunk.js": "/baraton-build/static/js/2.a0f1c262.chunk.js",
+    "static/js/2.a0f1c262.chunk.js.map": "/baraton-build/static/js/2.a0f1c262.chunk.js.map",
+    "index.html": "/baraton-build/index.html",
+    "precache-manifest.42aacfa9b18f806eceb82c6dcf0d2c30.js": "/baraton-build/precache-manifest.42aacfa9b18f806eceb82c6dcf0d2c30.js",
+    "service-worker.js": "/baraton-build/service-worker.js",
+    "static/css/main.6af95ff8.chunk.css.map": "/baraton-build/static/css/main.6af95ff8.chunk.css.map",
+    "static/media/Banner.scss": "/baraton-build/static/media/banner_1.3ae75bc7.png"
   }
 }
